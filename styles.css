@@ -212,7 +212,7 @@ button {
     flex-direction: column;
   }
 
-  #histories {
+  #histories, .card  {
     gap: 0;
     display: flex;
     flex-wrap: wrap;
